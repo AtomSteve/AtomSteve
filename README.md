@@ -11,7 +11,9 @@
   - [Network-File-Shares-and-permissions](https://github.com/AtomSteve/Network-File-Shares-and-permissions)
   - [Building-Intuition-for-DNS](https://github.com/AtomSteve/Building-Intuition-for-DNS#building-intuition-for-dns)
  
-  - - <b>Software Development Projects</b>
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Creating a live SOC/Honeynet in Azure</b>
 
 
 <h2>🤳Connect with me:</h2>
