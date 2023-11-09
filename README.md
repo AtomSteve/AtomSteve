@@ -13,7 +13,17 @@
  
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Creating a live SOC/Honeynet in Azure</b>
+- [Creating a live SOC/Honeynet in Azure](https://github.com/AtomSteve/Building-a-SOC-Honeynet-in-Azure)
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>🤳Connect with me:</h2>
